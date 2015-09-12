@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <description>A blog about lorem ipsum dolor sit amet</description>
+    <link>http://rikarumi.github.io/rikarumi/</link>
+    <atom:link href="http://rikarumi.github.io/rikarumi/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 12 Sep 2015 23:37:15 +0700</pubDate>
+    <lastBuildDate>Sat, 12 Sep 2015 23:37:15 +0700</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Hello</title>
+        <description>&lt;p&gt;Trying out github page :D&lt;/p&gt;
+</description>
+        <pubDate>Sat, 12 Sep 2015 18:38:00 +0700</pubDate>
+        <link>http://rikarumi.github.io/rikarumi/how-to-use/</link>
+        <guid isPermaLink="true">http://rikarumi.github.io/rikarumi/how-to-use/</guid>
+        
+        <category>Hello</category>
+        
+        
+        <category>intro</category>
+        
+      </item>
+    
+  </channel>
+</rss>
