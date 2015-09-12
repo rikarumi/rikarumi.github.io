@@ -1,6 +1,6 @@
 # Site settings
 description: A blog about lorem ipsum dolor sit amet
-baseurl: "/rikarumi" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://rikarumi.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
@@ -30,7 +30,7 @@ compress_html:
 # For external links add external: true
 links:
   - title: Home
-    url:
+    url: http://rikarumi.github.io
   - title: Series
     url: /series
   - title: Tags
