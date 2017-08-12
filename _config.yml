@@ -1,12 +1,12 @@
 # Site settings
-description: A blog about lorem ipsum dolor sit amet
+description: A blog about a lil kid named rikarumi
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://rikarumi.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: rikarumi
-user_description: Anon Developer at Lorem Ipsum Dolor
-user_title: newbie
+user_description: Code Code Color Capture Moments
+user_title: adventurer
 email: rika.rumiyati@gmail.com
 twitter_username: riikarumi
 github_username:  rikarumi
