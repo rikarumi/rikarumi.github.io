@@ -5,13 +5,13 @@
     <description>A blog about lorem ipsum dolor sit amet</description>
     <link>http://rikarumi.github.io/</link>
     <atom:link href="http://rikarumi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 12 Aug 2017 17:22:23 +0700</pubDate>
-    <lastBuildDate>Sat, 12 Aug 2017 17:22:23 +0700</lastBuildDate>
+    <pubDate>Sat, 12 Aug 2017 17:34:16 +0700</pubDate>
+    <lastBuildDate>Sat, 12 Aug 2017 17:34:16 +0700</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
         <title>A book summary: Cooked</title>
-        <description>&lt;iframe src=&quot;https://drive.google.com/file/d/0B_ELLCkugV9sWjRMSkJ4N0kxMTQ/preview&quot; width=&quot;100%&quot; height=&quot;100%&quot;&gt;&lt;/iframe&gt;
+        <description>&lt;iframe src=&quot;https://drive.google.com/file/d/0B_ELLCkugV9sWjRMSkJ4N0kxMTQ/preview&quot; width=&quot;100%&quot; height=&quot;600px !important&quot;&gt;&lt;/iframe&gt;
 </description>
         <pubDate>Sat, 12 Aug 2017 18:38:00 +0700</pubDate>
         <link>http://rikarumi.github.io/short-summary-on-a-book-titled-cooked/</link>

@@ -14,4 +14,4 @@ categories:
 twitter_text: 'Cooked'
 ---
 
-<iframe src="https://drive.google.com/file/d/0B_ELLCkugV9sWjRMSkJ4N0kxMTQ/preview" width="100%" height="100%"></iframe>
+<iframe src="https://drive.google.com/file/d/0B_ELLCkugV9sWjRMSkJ4N0kxMTQ/preview" width="100%" height="600px !important"></iframe>
