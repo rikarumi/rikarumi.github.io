@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A book summary: Cooked"
-date: 2015-09-12 11:38:00
+date: 2017-08-12 11:38:00
 image: '/assets/img/'
 description: 'This is key points slide that I made after reading a book titled Cooked by Michael Pollan'
 tags:
